@@ -17,11 +17,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
           worldmap: true
           licenses: true
           calendar: true
           stargazers: true
-          contributors: true
           languages: true
           achievements: true
           activity: true
+          
