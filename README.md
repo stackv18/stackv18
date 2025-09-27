@@ -1,4 +1,4 @@
-## Hi there 👋
+![Metrics](/github-metrics.svg)
 
 <!--
 **stackv18/stackv18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
