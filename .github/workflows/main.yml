@@ -20,7 +20,6 @@ jobs:
           calendar: yes
           worldmap: true
           licenses: true
-          calendar: true
           stargazers: true
           languages: true
           achievements: true
