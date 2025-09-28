@@ -17,8 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
+          calendar: yes
           worldmap: true
           licenses: true
           calendar: true
